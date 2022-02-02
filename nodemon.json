@@ -1,0 +1,6 @@
+{
+    "watch": ["./"],
+    "ext": ".ts,.js,.json",
+    "ignore": [],
+    "exec": "sucrase-node ./src/index.ts"
+}
