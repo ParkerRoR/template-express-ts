@@ -3,6 +3,7 @@
     "target": "es2017",
     "rootDir": "./",
     "outDir": "./build",
-    "allowSyntheticDefaultImports": true
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution":"Node"
   }
 }
